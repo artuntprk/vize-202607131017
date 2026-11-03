@@ -26,6 +26,12 @@ SELECT COUNT(*) FILTER (WHERE score < 1 OR score > 100) AS olcek_disi,
        ROUND(AVG(CASE WHEN is_empty THEN NULL ELSE score END), 2) AS ort_bos_haric
 FROM ratings;
 
+-- Ek kontrol: olcek disi puanlari NULL'a cevirsek ortalama nasil degisirdi? (yonerge soru 2)
+SELECT ROUND(AVG(score), 2) AS ort_orijinal,
+       ROUND(AVG(CASE WHEN score < 1 OR score > 100 THEN NULL ELSE score END), 2) AS ort_null_cevirince
+FROM ratings;
+-- Sonuc: ort_orijinal = 65.13, ort_null_cevirince = 65.13, fark yok. Veride olcek disi (1-100 disi) puan olmadigi icin NULL'a cevirmenin ortalamaya hicbir etkisi olmuyor; bu kontrol, Q2'deki "olcek disi puan: 0" bulgusunu dogruluyor.
+
 
 -- Q3: En az 30 puan vermis puanlayicilar (HAVING)
 -- Soru: Yeterince puan vermis puanlayicilar kimler ve en yuksek ortalamayi kimler vermis?
