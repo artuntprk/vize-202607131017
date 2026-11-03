@@ -1,0 +1,1501 @@
+rater_id,lm_familiarity,lm_frequency_use,lm_direct_use,num_completed_conversations
+user0,Somewhat familiar,More than once a month,Yes,1
+user1,Somewhat familiar,More than once a month,No,6
+user2,Somewhat familiar,Once per month,Unsure,6
+user3,Very familiar,Every week,Yes,6
+user4,Not familiar at all,,Unsure,6
+user5,Very familiar,Every week,Yes,6
+user6,Somewhat familiar,More than once a month,Yes,3
+user7,Somewhat familiar,Every day,Yes,6
+user8,Very familiar,More than once a month,Yes,6
+user9,Somewhat familiar,Once per month,Yes,6
+user10,Very familiar,More than once a month,Yes,6
+user11,Very familiar,Every week,Yes,6
+user12,Somewhat familiar,More than once a month,No,1
+user13,Somewhat familiar,More than once a month,Yes,6
+user14,Somewhat familiar,Every week,Yes,3
+user15,Very familiar,Every week,Yes,0
+user16,Very familiar,Once per month,Yes,6
+user17,Somewhat familiar,More than once a month,Yes,6
+user18,Somewhat familiar,More than once a month,Yes,6
+user19,Very familiar,Every week,Yes,6
+user20,Somewhat familiar,More than once a month,Yes,6
+user21,Somewhat familiar,Once per month,Yes,6
+user22,Somewhat familiar,Less than one a year,Yes,6
+user23,Very familiar,Once per month,Yes,6
+user24,Somewhat familiar,More than once a month,Yes,6
+user25,Very familiar,More than once a month,Yes,6
+user26,Somewhat familiar,More than once a month,No,6
+user27,Not familiar at all,,No,1
+user28,Somewhat familiar,More than once a month,Yes,6
+user29,Very familiar,Every week,Yes,6
+user30,Somewhat familiar,More than once a month,Yes,2
+user31,Somewhat familiar,More than once a month,Yes,6
+user32,Very familiar,Every week,Yes,6
+user33,Somewhat familiar,Once per month,Yes,6
+user34,Very familiar,More than once a month,Yes,6
+user35,Somewhat familiar,More than once a month,Yes,2
+user36,Somewhat familiar,Once per month,Yes,0
+user37,Somewhat familiar,Once per month,Yes,6
+user38,Somewhat familiar,Less than one a year,No,6
+user39,Very familiar,Every week,Yes,6
+user40,Somewhat familiar,Once per month,Yes,6
+user41,Very familiar,Every week,Yes,6
+user42,Somewhat familiar,Once per month,Unsure,6
+user43,Somewhat familiar,More than once a month,Yes,6
+user44,Very familiar,More than once a month,Yes,6
+user45,Somewhat familiar,More than once a month,Yes,6
+user46,Somewhat familiar,Once per month,No,6
+user47,Very familiar,Once per month,Yes,6
+user48,Not familiar at all,Less than one a year,No,0
+user49,Somewhat familiar,,No,6
+user50,Somewhat familiar,More than once a month,Yes,6
+user51,Not familiar at all,,No,6
+user52,Somewhat familiar,Once per month,Yes,6
+user53,Not familiar at all,,No,6
+user54,Not familiar at all,Once per month,Yes,0
+user55,Somewhat familiar,Once per month,Yes,3
+user56,Very familiar,Once per month,Yes,0
+user57,Somewhat familiar,Once per month,Yes,6
+user58,Somewhat familiar,Once per month,Yes,6
+user59,Not familiar at all,Less than one a year,Yes,6
+user60,Somewhat familiar,Once per month,Yes,6
+user61,Somewhat familiar,Once per month,Yes,6
+user62,Somewhat familiar,,No,6
+user63,Somewhat familiar,More than once a month,Yes,6
+user64,Somewhat familiar,Once per month,Yes,6
+user65,Somewhat familiar,Less than one a year,Yes,6
+user66,Not familiar at all,,No,6
+user67,Somewhat familiar,Every week,Yes,6
+user68,Somewhat familiar,Less than one a year,No,6
+user69,Somewhat familiar,Once per month,Yes,6
+user70,Not familiar at all,,No,6
+user71,Very familiar,Every week,Yes,6
+user72,Very familiar,Every week,Yes,6
+user73,Very familiar,Every week,Yes,6
+user74,Somewhat familiar,,No,6
+user75,Not familiar at all,,No,6
+user76,Somewhat familiar,Once per month,Yes,6
+user77,Somewhat familiar,,No,6
+user78,Somewhat familiar,Once per month,Yes,6
+user79,Somewhat familiar,,No,6
+user80,Somewhat familiar,Less than one a year,Yes,6
+user81,Somewhat familiar,Once per month,Yes,0
+user82,Somewhat familiar,Once per month,Yes,6
+user83,Somewhat familiar,Every week,Yes,6
+user84,Somewhat familiar,Once per month,Yes,6
+user85,Somewhat familiar,More than once a month,Yes,6
+user86,Somewhat familiar,Once per month,Yes,0
+user87,Very familiar,Every day,Yes,0
+user88,Somewhat familiar,Once per month,Yes,6
+user89,Somewhat familiar,Once per month,Yes,6
+user90,Somewhat familiar,More than once a month,Yes,6
+user91,Somewhat familiar,More than once a month,Yes,6
+user92,Somewhat familiar,Once per month,Yes,6
+user93,Somewhat familiar,More than once a month,Yes,6
+user94,Somewhat familiar,Once per month,Yes,6
+user95,Somewhat familiar,Once per month,Yes,6
+user96,Very familiar,More than once a month,Yes,6
+user97,Somewhat familiar,More than once a month,Yes,6
+user98,Very familiar,More than once a month,Yes,6
+user99,Not familiar at all,Less than one a year,Unsure,6
+user100,Somewhat familiar,Every week,Yes,6
+user101,Very familiar,Once per month,Yes,6
+user102,Very familiar,Every week,Yes,6
+user103,Somewhat familiar,Once per month,Yes,6
+user104,Very familiar,Every week,Yes,6
+user105,Somewhat familiar,Every week,Yes,6
+user106,Somewhat familiar,Once per month,Yes,6
+user107,Very familiar,Every day,Yes,6
+user108,Somewhat familiar,,No,6
+user109,Very familiar,Every day,Yes,6
+user110,Very familiar,More than once a month,Yes,2
+user111,Very familiar,Every week,Yes,6
+user112,Very familiar,Every day,Yes,6
+user113,Somewhat familiar,,No,6
+user114,Very familiar,Every week,Yes,6
+user115,Very familiar,More than once a month,Yes,6
+user116,Very familiar,Every week,Yes,6
+user117,Somewhat familiar,,Unsure,6
+user118,Very familiar,Every day,Yes,6
+user119,Very familiar,More than once a month,Yes,6
+user120,Very familiar,More than once a month,Yes,6
+user121,Somewhat familiar,More than once a month,Yes,6
+user122,Very familiar,More than once a month,Yes,6
+user123,Somewhat familiar,Every week,Yes,6
+user124,Very familiar,Every week,Yes,6
+user125,Somewhat familiar,,No,6
+user126,Somewhat familiar,Every week,Yes,6
+user127,Somewhat familiar,Every week,Yes,6
+user128,Very familiar,Every day,Yes,6
+user129,Very familiar,Every week,Yes,6
+user130,Somewhat familiar,Once per month,Yes,6
+user131,Somewhat familiar,Once per month,Unsure,6
+user132,Somewhat familiar,Once per month,Yes,6
+user133,Very familiar,More than once a month,Yes,6
+user134,Very familiar,More than once a month,Yes,6
+user135,Somewhat familiar,More than once a month,Yes,6
+user136,Very familiar,Every day,Yes,6
+user137,Somewhat familiar,Once per month,Yes,6
+user138,Somewhat familiar,Less than one a year,Yes,6
+user139,Somewhat familiar,Once per month,Yes,6
+user140,Somewhat familiar,More than once a month,Yes,6
+user141,Somewhat familiar,Less than one a year,Yes,6
+user142,Somewhat familiar,Less than one a year,Yes,6
+user143,Somewhat familiar,More than once a month,Yes,6
+user144,Not familiar at all,Less than one a year,Yes,6
+user145,Somewhat familiar,Once per month,Yes,6
+user146,Very familiar,More than once a month,Yes,6
+user147,Somewhat familiar,Once per month,Yes,6
+user148,Somewhat familiar,More than once a month,Yes,6
+user149,Somewhat familiar,More than once a month,Yes,6
+user150,Very familiar,Every day,Yes,6
+user151,Very familiar,Once per month,Yes,6
+user152,Somewhat familiar,Every day,Yes,6
+user153,Somewhat familiar,Less than one a year,Yes,6
+user154,Somewhat familiar,Less than one a year,Yes,6
+user155,Somewhat familiar,More than once a month,Yes,6
+user156,Very familiar,Every week,Yes,6
+user157,Very familiar,Once per month,Yes,6
+user158,Very familiar,Every day,Yes,6
+user159,Somewhat familiar,Once per month,Yes,6
+user160,Very familiar,Once per month,Yes,3
+user161,Somewhat familiar,More than once a month,Yes,2
+user162,Very familiar,Every week,Yes,6
+user163,Somewhat familiar,Once per month,Yes,6
+user164,Very familiar,Less than one a year,Yes,6
+user165,Somewhat familiar,Every week,Yes,5
+user166,Somewhat familiar,Once per month,Unsure,6
+user167,Somewhat familiar,,No,6
+user168,Very familiar,Every day,Yes,3
+user169,Somewhat familiar,Once per month,Yes,6
+user170,Somewhat familiar,More than once a month,Yes,6
+user171,Somewhat familiar,Every week,Yes,6
+user172,Somewhat familiar,More than once a month,Yes,6
+user173,Somewhat familiar,Every day,Yes,6
+user174,Somewhat familiar,Every week,Yes,6
+user175,Very familiar,Every day,Yes,6
+user176,Somewhat familiar,Every day,Yes,6
+user177,Very familiar,Every week,Yes,0
+user178,Somewhat familiar,Every week,Yes,6
+user179,Somewhat familiar,Less than one a year,Yes,6
+user180,Very familiar,More than once a month,Yes,6
+user181,Somewhat familiar,More than once a month,Yes,6
+user182,Somewhat familiar,Every week,Yes,6
+user183,Very familiar,Every week,Yes,6
+user184,Somewhat familiar,Once per month,Yes,6
+user185,Somewhat familiar,Less than one a year,Yes,6
+user186,Very familiar,Every day,Yes,6
+user187,Somewhat familiar,Less than one a year,Yes,6
+user188,Very familiar,Every week,Yes,6
+user189,Somewhat familiar,More than once a month,Yes,6
+user190,Somewhat familiar,Once per month,Yes,6
+user191,Somewhat familiar,Less than one a year,Yes,6
+user192,Very familiar,Every week,Yes,6
+user193,Very familiar,Every day,Yes,6
+user194,Somewhat familiar,More than once a month,Yes,6
+user195,Very familiar,Every day,Yes,6
+user196,Very familiar,Every day,Yes,0
+user197,Very familiar,Every day,Yes,6
+user198,Somewhat familiar,Every week,Unsure,6
+user199,Very familiar,More than once a month,Yes,6
+user200,Somewhat familiar,More than once a month,Yes,6
+user201,Very familiar,Every day,Yes,6
+user202,Very familiar,Every week,Yes,6
+user203,Very familiar,More than once a month,Yes,3
+user204,Very familiar,Every week,Yes,6
+user205,Very familiar,More than once a month,Yes,3
+user206,Very familiar,Every day,Yes,3
+user207,Somewhat familiar,Every week,Yes,6
+user208,Somewhat familiar,Once per month,Yes,6
+user209,Somewhat familiar,Every week,Yes,3
+user210,Somewhat familiar,Every week,Yes,6
+user211,Somewhat familiar,Once per month,Yes,6
+user212,Very familiar,Every day,Yes,6
+user213,Very familiar,Every day,Yes,6
+user214,Somewhat familiar,Every week,Yes,6
+user215,Very familiar,Every week,Yes,0
+user216,Somewhat familiar,Every week,Yes,0
+user217,Very familiar,Every week,Yes,0
+user218,Very familiar,Every day,Yes,6
+user219,Somewhat familiar,More than once a month,Yes,6
+user220,Very familiar,Every week,Yes,6
+user221,Somewhat familiar,More than once a month,Yes,6
+user222,Somewhat familiar,More than once a month,Yes,6
+user223,Very familiar,Every week,Yes,1
+user224,Very familiar,Every week,Yes,6
+user225,Very familiar,Every week,Yes,6
+user226,Somewhat familiar,Less than one a year,Yes,6
+user227,Somewhat familiar,Once per month,Yes,3
+user228,Somewhat familiar,More than once a month,Yes,6
+user229,Somewhat familiar,Less than one a year,Yes,6
+user230,Somewhat familiar,Once per month,Yes,6
+user231,Somewhat familiar,Once per month,Yes,6
+user232,Very familiar,Every week,Yes,6
+user233,Somewhat familiar,Once per month,Yes,6
+user234,Somewhat familiar,Once per month,Yes,6
+user235,Somewhat familiar,Less than one a year,Yes,6
+user236,Very familiar,Every day,Yes,6
+user237,Very familiar,Every week,Yes,0
+user238,Very familiar,Every week,Yes,6
+user239,Very familiar,Every week,Yes,6
+user240,Somewhat familiar,Once per month,Yes,3
+user241,Somewhat familiar,Less than one a year,Yes,6
+user242,Somewhat familiar,More than once a month,Yes,6
+user243,Very familiar,Every day,Yes,6
+user244,Very familiar,Every day,Yes,6
+user245,Very familiar,More than once a month,Yes,6
+user246,Somewhat familiar,Every week,Yes,6
+user247,Very familiar,Every day,Yes,3
+user248,Somewhat familiar,Less than one a year,Yes,6
+user249,Somewhat familiar,Every week,Yes,6
+user250,Very familiar,More than once a month,Yes,6
+user251,Very familiar,Every week,Yes,6
+user252,Very familiar,Every day,Yes,6
+user253,Very familiar,Once per month,Yes,6
+user254,Somewhat familiar,Less than one a year,Yes,6
+user255,Very familiar,Less than one a year,Yes,6
+user256,Somewhat familiar,Every week,Yes,3
+user257,Somewhat familiar,More than once a month,Yes,6
+user258,Somewhat familiar,More than once a month,Yes,6
+user259,Somewhat familiar,Every week,Yes,6
+user260,Very familiar,Every day,Yes,6
+user261,Somewhat familiar,,No,6
+user262,Somewhat familiar,Once per month,Yes,6
+user263,Somewhat familiar,More than once a month,Yes,4
+user264,Somewhat familiar,Once per month,Yes,6
+user265,Somewhat familiar,Once per month,Yes,6
+user266,Somewhat familiar,More than once a month,Yes,6
+user267,Somewhat familiar,Every week,Yes,6
+user268,Somewhat familiar,Once per month,Yes,6
+user269,Somewhat familiar,Less than one a year,No,0
+user270,Very familiar,Every week,Yes,6
+user271,Very familiar,More than once a month,Yes,6
+user272,Somewhat familiar,Once per month,Yes,6
+user273,Somewhat familiar,Once per month,Yes,6
+user274,Somewhat familiar,Less than one a year,Yes,6
+user275,Very familiar,Every day,Yes,2
+user276,Somewhat familiar,Once per month,Yes,6
+user277,Very familiar,More than once a month,Yes,6
+user278,Very familiar,Every day,Yes,6
+user279,Somewhat familiar,Once per month,Yes,6
+user280,Somewhat familiar,More than once a month,Yes,1
+user281,Very familiar,Every week,Yes,6
+user282,Very familiar,Once per month,Yes,6
+user283,Very familiar,Every week,Yes,6
+user284,Not familiar at all,Once per month,No,6
+user285,Somewhat familiar,More than once a month,Yes,6
+user286,Somewhat familiar,Once per month,Yes,3
+user287,Somewhat familiar,Every week,Yes,0
+user288,Very familiar,Every week,Yes,6
+user289,Very familiar,Once per month,Yes,6
+user290,Somewhat familiar,Once per month,Yes,6
+user291,Very familiar,Every day,Yes,6
+user292,Not familiar at all,,No,6
+user293,Somewhat familiar,,No,6
+user294,Somewhat familiar,Every week,Yes,6
+user295,Not familiar at all,,No,6
+user296,Somewhat familiar,Once per month,No,6
+user297,Very familiar,Every day,Yes,6
+user298,Somewhat familiar,Every week,Yes,6
+user299,Somewhat familiar,,No,6
+user300,Somewhat familiar,Every week,Yes,6
+user301,Somewhat familiar,Once per month,Yes,6
+user302,Not familiar at all,Less than one a year,Yes,0
+user303,Somewhat familiar,Once per month,Yes,6
+user304,Somewhat familiar,Less than one a year,Yes,6
+user305,Somewhat familiar,Every week,Yes,6
+user306,Very familiar,Every week,Yes,6
+user307,Very familiar,Every week,Yes,6
+user308,Somewhat familiar,More than once a month,Yes,6
+user309,Very familiar,Every week,Yes,6
+user310,Very familiar,Every day,Yes,6
+user311,Somewhat familiar,,No,6
+user312,Not familiar at all,Less than one a year,No,1
+user313,Somewhat familiar,More than once a month,Yes,6
+user314,Somewhat familiar,Once per month,Yes,6
+user315,Very familiar,Every week,Yes,6
+user316,Somewhat familiar,Every week,Yes,6
+user317,Very familiar,Every week,Yes,6
+user318,Somewhat familiar,Once per month,Yes,6
+user319,Somewhat familiar,Once per month,Yes,6
+user320,Very familiar,Every day,Yes,6
+user321,Somewhat familiar,Every week,Yes,1
+user322,Very familiar,Every week,Yes,0
+user323,Very familiar,Every week,Yes,6
+user324,Very familiar,Every week,Yes,6
+user325,Somewhat familiar,Every day,Yes,6
+user326,Very familiar,Every day,Yes,6
+user327,Very familiar,Every day,Yes,6
+user328,Somewhat familiar,More than once a month,Yes,6
+user329,Somewhat familiar,,No,6
+user330,Somewhat familiar,Every week,Yes,6
+user331,Very familiar,Every day,Yes,6
+user332,Very familiar,More than once a month,Yes,6
+user333,Somewhat familiar,Every week,Yes,6
+user334,Somewhat familiar,Once per month,Yes,6
+user335,Not familiar at all,,No,6
+user336,Very familiar,Every week,Yes,6
+user337,Somewhat familiar,Once per month,Yes,6
+user338,Very familiar,Once per month,Yes,6
+user339,Somewhat familiar,Once per month,Yes,6
+user340,Somewhat familiar,Less than one a year,Yes,6
+user341,Very familiar,Once per month,Yes,6
+user342,Somewhat familiar,,No,1
+user343,Somewhat familiar,,No,6
+user344,Somewhat familiar,Once per month,Yes,6
+user345,Very familiar,Every day,Yes,6
+user346,Somewhat familiar,More than once a month,Yes,0
+user347,Somewhat familiar,,No,6
+user348,Somewhat familiar,Every week,Yes,6
+user349,Somewhat familiar,More than once a month,Yes,6
+user350,Very familiar,Every week,Yes,6
+user351,Somewhat familiar,More than once a month,Yes,6
+user352,Somewhat familiar,More than once a month,Yes,0
+user353,Somewhat familiar,Once per month,No,6
+user354,Somewhat familiar,Once per month,Yes,6
+user355,Somewhat familiar,Once per month,Yes,6
+user356,Somewhat familiar,Every week,Yes,6
+user357,Very familiar,Every week,Yes,6
+user358,Not familiar at all,Once per month,Yes,6
+user359,Not familiar at all,,No,0
+user360,Very familiar,Once per month,Yes,6
+user361,Somewhat familiar,Once per month,Yes,0
+user362,Somewhat familiar,Once per month,Yes,6
+user363,Somewhat familiar,Once per month,Yes,6
+user364,Somewhat familiar,Once per month,Yes,6
+user365,Somewhat familiar,Once per month,Yes,6
+user366,Very familiar,Every day,Yes,6
+user367,Somewhat familiar,More than once a month,Yes,6
+user368,Somewhat familiar,,No,6
+user369,Not familiar at all,Once per month,Yes,6
+user370,Somewhat familiar,Less than one a year,Yes,6
+user371,Very familiar,,Unsure,6
+user372,Very familiar,Every day,Yes,6
+user373,Somewhat familiar,Once per month,Yes,6
+user374,Somewhat familiar,Every day,Yes,6
+user375,Very familiar,More than once a month,Yes,6
+user376,Very familiar,More than once a month,Yes,3
+user377,Very familiar,Every week,Yes,6
+user378,Very familiar,Every week,Yes,2
+user379,Somewhat familiar,Once per month,No,6
+user380,Somewhat familiar,Less than one a year,Yes,6
+user381,Very familiar,Every week,Yes,6
+user382,Somewhat familiar,Once per month,Yes,6
+user383,Somewhat familiar,Less than one a year,Yes,6
+user384,Somewhat familiar,Less than one a year,No,6
+user385,Somewhat familiar,,No,6
+user386,Somewhat familiar,,No,6
+user387,Somewhat familiar,Once per month,Yes,6
+user388,Somewhat familiar,More than once a month,Yes,6
+user389,Somewhat familiar,More than once a month,Yes,6
+user390,Somewhat familiar,More than once a month,Yes,6
+user391,Somewhat familiar,Less than one a year,Yes,6
+user392,Somewhat familiar,,Unsure,6
+user393,Somewhat familiar,More than once a month,Yes,6
+user394,Somewhat familiar,,Unsure,6
+user395,Somewhat familiar,Every week,Yes,6
+user396,Somewhat familiar,More than once a month,Yes,6
+user397,Very familiar,Every week,Yes,6
+user398,Not familiar at all,More than once a month,No,6
+user399,Somewhat familiar,,No,6
+user400,Somewhat familiar,Once per month,Yes,6
+user401,Very familiar,Every day,Yes,0
+user402,Very familiar,Every week,Yes,6
+user403,Somewhat familiar,More than once a month,Yes,6
+user404,Somewhat familiar,Once per month,No,6
+user405,Very familiar,Once per month,Yes,6
+user406,Somewhat familiar,Once per month,Yes,0
+user407,Somewhat familiar,More than once a month,Yes,6
+user408,Very familiar,Once per month,Yes,6
+user409,Very familiar,Every day,Yes,6
+user410,Not familiar at all,,No,6
+user411,Very familiar,Every day,Yes,6
+user412,Somewhat familiar,Every week,Yes,6
+user413,Very familiar,Every week,Yes,6
+user414,Very familiar,Every week,Yes,6
+user415,Very familiar,More than once a month,Yes,6
+user416,Somewhat familiar,Once per month,Yes,6
+user417,Very familiar,Once per month,Yes,6
+user418,Somewhat familiar,More than once a month,Yes,6
+user419,Very familiar,Every week,Yes,6
+user420,Very familiar,More than once a month,Yes,6
+user421,Somewhat familiar,Once per month,Yes,6
+user422,Somewhat familiar,Once per month,Yes,6
+user423,Very familiar,Every week,Yes,6
+user424,Somewhat familiar,Less than one a year,Yes,6
+user425,Very familiar,Every week,Yes,6
+user426,Somewhat familiar,More than once a month,Yes,0
+user427,Not familiar at all,,Unsure,6
+user428,Somewhat familiar,Once per month,Yes,6
+user429,Somewhat familiar,Less than one a year,Yes,6
+user430,Very familiar,More than once a month,Yes,6
+user431,Somewhat familiar,,Unsure,6
+user432,Somewhat familiar,More than once a month,Yes,6
+user433,Not familiar at all,More than once a month,Yes,6
+user434,Not familiar at all,,No,6
+user435,Somewhat familiar,Less than one a year,Unsure,0
+user436,Somewhat familiar,More than once a month,Yes,1
+user437,Somewhat familiar,More than once a month,Yes,6
+user438,Somewhat familiar,Once per month,Yes,6
+user439,Somewhat familiar,Once per month,No,6
+user440,Somewhat familiar,More than once a month,Yes,6
+user441,Very familiar,More than once a month,Yes,6
+user442,Very familiar,Every week,Yes,6
+user443,Somewhat familiar,More than once a month,Unsure,6
+user444,Somewhat familiar,More than once a month,Yes,6
+user445,Very familiar,Every day,Yes,0
+user446,Somewhat familiar,Once per month,Yes,6
+user447,Very familiar,Every day,Yes,6
+user448,Somewhat familiar,More than once a month,Yes,6
+user449,Very familiar,Every day,Yes,6
+user450,Somewhat familiar,,Unsure,0
+user451,Somewhat familiar,Every week,Yes,6
+user452,Somewhat familiar,,No,6
+user453,Very familiar,Every week,Yes,6
+user454,Very familiar,Every day,Yes,6
+user455,Very familiar,Once per month,Yes,6
+user456,Not familiar at all,,No,6
+user457,Somewhat familiar,Once per month,Yes,6
+user458,Not familiar at all,,No,6
+user459,Somewhat familiar,Once per month,Yes,6
+user460,Somewhat familiar,,No,6
+user461,Somewhat familiar,Every week,Yes,6
+user462,Somewhat familiar,Every week,Yes,6
+user463,Somewhat familiar,Once per month,Yes,6
+user464,Very familiar,Every week,Yes,6
+user465,Somewhat familiar,More than once a month,Yes,6
+user466,Very familiar,Once per month,Yes,6
+user467,Somewhat familiar,Less than one a year,Yes,6
+user468,Somewhat familiar,More than once a month,Yes,6
+user469,Somewhat familiar,Every day,Yes,6
+user470,Very familiar,Every week,Yes,6
+user471,Very familiar,Every week,Yes,6
+user472,Very familiar,Every week,Yes,0
+user473,Somewhat familiar,More than once a month,Yes,6
+user474,Very familiar,More than once a month,Yes,6
+user475,Somewhat familiar,Every week,Yes,6
+user476,Somewhat familiar,Every week,Yes,6
+user477,Very familiar,Once per month,Yes,6
+user478,Not familiar at all,,Unsure,6
+user479,Somewhat familiar,Every week,Yes,6
+user480,Somewhat familiar,Every week,Yes,6
+user481,Very familiar,More than once a month,Yes,6
+user482,Very familiar,Every week,Yes,6
+user483,Somewhat familiar,Every week,Yes,6
+user484,Very familiar,Every week,Yes,0
+user485,Somewhat familiar,Once per month,Yes,2
+user486,Somewhat familiar,Once per month,Yes,6
+user487,Somewhat familiar,Once per month,Yes,6
+user488,Somewhat familiar,Once per month,Yes,6
+user489,Not familiar at all,Less than one a year,No,6
+user490,Somewhat familiar,More than once a month,Yes,6
+user491,Somewhat familiar,Once per month,Yes,6
+user492,Somewhat familiar,Once per month,Yes,6
+user493,Somewhat familiar,Less than one a year,Yes,0
+user494,Somewhat familiar,Once per month,Yes,6
+user495,Somewhat familiar,Once per month,Yes,6
+user496,Very familiar,Every week,Yes,6
+user497,Very familiar,Every week,Yes,6
+user498,Very familiar,Every week,Yes,0
+user499,Somewhat familiar,Every week,Yes,6
+user500,Somewhat familiar,,No,6
+user501,Somewhat familiar,Less than one a year,Yes,6
+user502,Somewhat familiar,More than once a month,Yes,6
+user503,Somewhat familiar,,Unsure,0
+user504,Somewhat familiar,Once per month,Yes,6
+user505,Not familiar at all,,No,6
+user506,Very familiar,Every week,Yes,6
+user507,Very familiar,More than once a month,Yes,6
+user508,Somewhat familiar,Once per month,Yes,6
+user509,Very familiar,More than once a month,Yes,6
+user510,Somewhat familiar,Once per month,Yes,6
+user511,Very familiar,More than once a month,Yes,3
+user512,Somewhat familiar,More than once a month,Yes,6
+user513,Somewhat familiar,More than once a month,Yes,3
+user514,Very familiar,Every week,Yes,6
+user515,Very familiar,Every week,Yes,6
+user516,Somewhat familiar,,No,6
+user517,Somewhat familiar,Every week,Yes,6
+user518,Somewhat familiar,Less than one a year,Yes,6
+user519,Somewhat familiar,Every week,Yes,6
+user520,Very familiar,Every week,Yes,6
+user521,Very familiar,Every week,Yes,6
+user522,Somewhat familiar,Every week,Yes,6
+user523,Very familiar,Once per month,Yes,6
+user524,Not familiar at all,,No,6
+user525,Somewhat familiar,,No,6
+user526,Somewhat familiar,Once per month,Yes,6
+user527,Very familiar,Every week,Yes,6
+user528,Somewhat familiar,Once per month,Yes,6
+user529,Very familiar,More than once a month,Yes,2
+user530,Very familiar,Every week,Yes,6
+user531,Somewhat familiar,,Unsure,6
+user532,Very familiar,Every week,Yes,6
+user533,Very familiar,Every week,Yes,6
+user534,Somewhat familiar,More than once a month,Yes,6
+user535,Somewhat familiar,Less than one a year,Yes,6
+user536,Very familiar,Every week,Yes,6
+user537,Somewhat familiar,Less than one a year,Yes,6
+user538,Very familiar,More than once a month,Yes,6
+user539,Somewhat familiar,Once per month,Yes,6
+user540,Somewhat familiar,More than once a month,Yes,6
+user541,Very familiar,Every week,Yes,6
+user542,Very familiar,Every week,Yes,6
+user543,Somewhat familiar,Less than one a year,Yes,6
+user544,Very familiar,Every week,Yes,6
+user545,Somewhat familiar,,No,6
+user546,Somewhat familiar,More than once a month,Yes,6
+user547,Somewhat familiar,Once per month,Yes,6
+user548,Somewhat familiar,,No,6
+user549,Somewhat familiar,,No,6
+user550,Very familiar,Once per month,Yes,6
+user551,Somewhat familiar,More than once a month,Yes,6
+user552,Somewhat familiar,Less than one a year,No,0
+user553,Somewhat familiar,More than once a month,Yes,6
+user554,Somewhat familiar,Less than one a year,Yes,6
+user555,Very familiar,Once per month,Yes,6
+user556,Somewhat familiar,Once per month,Yes,6
+user557,Somewhat familiar,Once per month,Yes,6
+user558,Somewhat familiar,More than once a month,Yes,6
+user559,Somewhat familiar,Once per month,Yes,6
+user560,Somewhat familiar,Every day,Yes,6
+user561,Very familiar,Once per month,Yes,6
+user562,Somewhat familiar,More than once a month,Yes,6
+user563,Very familiar,Every week,Yes,6
+user564,Somewhat familiar,Less than one a year,Yes,0
+user565,Somewhat familiar,,No,0
+user566,Somewhat familiar,Every week,Yes,6
+user567,Somewhat familiar,,No,4
+user568,Somewhat familiar,Less than one a year,Yes,6
+user569,Somewhat familiar,Once per month,Yes,6
+user570,Not familiar at all,,No,6
+user571,Somewhat familiar,More than once a month,No,6
+user572,Somewhat familiar,More than once a month,Yes,6
+user573,Somewhat familiar,Once per month,Yes,6
+user574,Somewhat familiar,Less than one a year,Yes,6
+user575,Somewhat familiar,,No,6
+user576,Somewhat familiar,More than once a month,Yes,6
+user577,Not familiar at all,,No,6
+user578,Not familiar at all,,No,6
+user579,Not familiar at all,Less than one a year,Yes,6
+user580,Somewhat familiar,Once per month,Yes,6
+user581,Very familiar,More than once a month,Yes,6
+user582,Somewhat familiar,Less than one a year,Yes,6
+user583,Somewhat familiar,Less than one a year,Yes,6
+user584,Somewhat familiar,More than once a month,Yes,6
+user585,Somewhat familiar,Once per month,Yes,0
+user586,Somewhat familiar,Less than one a year,No,6
+user587,Somewhat familiar,Once per month,Yes,2
+user588,Somewhat familiar,More than once a month,Yes,2
+user589,Very familiar,Once per month,Yes,6
+user590,Somewhat familiar,Less than one a year,Yes,0
+user591,Very familiar,Every week,Yes,6
+user592,Somewhat familiar,Once per month,Yes,6
+user593,Not familiar at all,Once per month,No,6
+user594,Somewhat familiar,More than once a month,Yes,6
+user595,Very familiar,Every week,Yes,6
+user596,Not familiar at all,,No,6
+user597,Somewhat familiar,Once per month,No,6
+user598,Very familiar,Every week,Yes,6
+user599,Somewhat familiar,Once per month,Yes,6
+user600,Not familiar at all,,No,6
+user601,Very familiar,Once per month,Yes,6
+user602,Not familiar at all,,No,6
+user603,Somewhat familiar,More than once a month,Yes,6
+user604,Somewhat familiar,Less than one a year,Yes,6
+user605,Somewhat familiar,Every week,Yes,6
+user606,Somewhat familiar,Less than one a year,Yes,6
+user607,Not familiar at all,,No,6
+user608,Somewhat familiar,,Unsure,6
+user609,Somewhat familiar,Once per month,Yes,6
+user610,Very familiar,Every week,Yes,6
+user611,Very familiar,Every day,Yes,6
+user612,Somewhat familiar,Every week,Yes,6
+user613,Somewhat familiar,,No,6
+user614,Somewhat familiar,Once per month,Yes,6
+user615,Somewhat familiar,Less than one a year,Yes,6
+user616,Somewhat familiar,Once per month,Yes,6
+user617,Somewhat familiar,,Unsure,6
+user618,Somewhat familiar,Once per month,Yes,6
+user619,Very familiar,More than once a month,Yes,6
+user620,Somewhat familiar,Once per month,Yes,6
+user621,Somewhat familiar,Every week,Yes,6
+user622,Somewhat familiar,,Unsure,6
+user623,Somewhat familiar,Once per month,Yes,6
+user624,Somewhat familiar,Every week,Yes,6
+user625,Very familiar,Every day,Yes,6
+user626,Not familiar at all,,No,6
+user627,Somewhat familiar,Once per month,Yes,6
+user628,Somewhat familiar,Less than one a year,Yes,6
+user629,Somewhat familiar,Once per month,Yes,6
+user630,Somewhat familiar,Less than one a year,Yes,6
+user631,Somewhat familiar,More than once a month,Yes,6
+user632,Somewhat familiar,Once per month,Yes,6
+user633,Very familiar,More than once a month,Yes,6
+user634,Somewhat familiar,Every week,Yes,6
+user635,Somewhat familiar,More than once a month,Yes,6
+user636,Somewhat familiar,Once per month,Yes,6
+user637,Somewhat familiar,Every week,Yes,3
+user638,Somewhat familiar,More than once a month,Yes,6
+user639,Somewhat familiar,,No,6
+user640,Somewhat familiar,Once per month,Yes,6
+user641,Not familiar at all,,No,6
+user642,Not familiar at all,,Unsure,0
+user643,Somewhat familiar,More than once a month,No,6
+user644,Not familiar at all,,No,6
+user645,Somewhat familiar,Less than one a year,Yes,6
+user646,Somewhat familiar,Once per month,Yes,6
+user647,Somewhat familiar,More than once a month,Yes,6
+user648,Somewhat familiar,Once per month,No,6
+user649,Not familiar at all,Less than one a year,Unsure,6
+user650,Not familiar at all,Less than one a year,No,0
+user651,Somewhat familiar,Once per month,Yes,6
+user652,Somewhat familiar,,No,6
+user653,Somewhat familiar,Once per month,Yes,6
+user654,Somewhat familiar,More than once a month,Yes,6
+user655,Very familiar,Once per month,Yes,6
+user656,Somewhat familiar,More than once a month,Yes,6
+user657,Very familiar,Every week,Yes,6
+user658,Somewhat familiar,More than once a month,Yes,0
+user659,Somewhat familiar,,No,6
+user660,Somewhat familiar,Every week,Yes,6
+user661,Somewhat familiar,Every week,Yes,6
+user662,Very familiar,Every day,Yes,6
+user663,Somewhat familiar,,No,6
+user664,Very familiar,Every week,Yes,6
+user665,Somewhat familiar,Every week,Yes,6
+user666,Very familiar,Once per month,Yes,6
+user667,Somewhat familiar,Once per month,Yes,6
+user668,Somewhat familiar,Once per month,Yes,6
+user669,Somewhat familiar,Once per month,Yes,6
+user670,Somewhat familiar,,Unsure,6
+user671,Somewhat familiar,Every week,Yes,6
+user672,Somewhat familiar,,No,6
+user673,Somewhat familiar,Less than one a year,Yes,6
+user674,Very familiar,Once per month,Yes,6
+user675,Somewhat familiar,Every week,Yes,0
+user676,Somewhat familiar,,No,6
+user677,Somewhat familiar,,No,6
+user678,Somewhat familiar,Every week,Yes,6
+user679,Somewhat familiar,Once per month,Yes,6
+user680,Very familiar,More than once a month,Yes,3
+user681,Very familiar,Every week,Yes,6
+user682,Somewhat familiar,,No,6
+user683,Somewhat familiar,,Unsure,6
+user684,Somewhat familiar,,No,6
+user685,Somewhat familiar,More than once a month,Yes,6
+user686,Somewhat familiar,Less than one a year,Yes,6
+user687,Somewhat familiar,,No,6
+user688,Very familiar,Less than one a year,Yes,6
+user689,Very familiar,Every week,Yes,6
+user690,Somewhat familiar,Every week,Yes,6
+user691,Very familiar,Once per month,Yes,6
+user692,Somewhat familiar,Once per month,Yes,6
+user693,Somewhat familiar,Once per month,Yes,6
+user694,Very familiar,Every week,Yes,6
+user695,Very familiar,Every day,Yes,6
+user696,Somewhat familiar,More than once a month,Yes,6
+user697,Somewhat familiar,Once per month,Yes,6
+user698,Very familiar,Every week,Yes,6
+user699,Very familiar,More than once a month,Yes,6
+user700,Very familiar,Every week,Yes,6
+user701,Very familiar,Every week,Yes,6
+user702,Very familiar,Every week,Yes,6
+user703,Somewhat familiar,More than once a month,Yes,6
+user704,Somewhat familiar,,No,6
+user705,Somewhat familiar,More than once a month,Yes,6
+user706,Very familiar,More than once a month,Yes,6
+user707,Somewhat familiar,More than once a month,Yes,6
+user708,Very familiar,Once per month,Yes,6
+user709,Very familiar,Every day,Yes,6
+user710,Somewhat familiar,Every week,Yes,6
+user711,Very familiar,Every week,Yes,6
+user712,Not familiar at all,Less than one a year,No,6
+user713,Somewhat familiar,More than once a month,Yes,6
+user714,Somewhat familiar,Every week,Yes,6
+user715,Somewhat familiar,Once per month,Yes,6
+user716,Somewhat familiar,More than once a month,Yes,6
+user717,Somewhat familiar,More than once a month,Unsure,6
+user718,Very familiar,More than once a month,Yes,6
+user719,Somewhat familiar,Once per month,Yes,6
+user720,Not familiar at all,More than once a month,Unsure,6
+user721,Somewhat familiar,Once per month,Yes,6
+user722,Somewhat familiar,Less than one a year,Unsure,6
+user723,Somewhat familiar,Every week,Yes,6
+user724,Somewhat familiar,Every week,Yes,6
+user725,Very familiar,More than once a month,Yes,6
+user726,Somewhat familiar,Every week,Yes,6
+user727,Somewhat familiar,,No,6
+user728,Somewhat familiar,Every week,Yes,6
+user729,Somewhat familiar,Once per month,Yes,6
+user730,Somewhat familiar,Less than one a year,No,6
+user731,Very familiar,More than once a month,Yes,6
+user732,Somewhat familiar,,No,2
+user733,Not familiar at all,Less than one a year,No,6
+user734,Very familiar,More than once a month,Yes,6
+user735,Not familiar at all,,Unsure,6
+user736,Somewhat familiar,Less than one a year,Yes,0
+user737,Somewhat familiar,Once per month,Yes,6
+user738,Somewhat familiar,Less than one a year,Yes,6
+user739,Somewhat familiar,Once per month,Yes,6
+user740,Somewhat familiar,More than once a month,Yes,6
+user741,Somewhat familiar,Once per month,Yes,3
+user742,Somewhat familiar,Once per month,Yes,6
+user743,Not familiar at all,,No,6
+user744,Somewhat familiar,,No,1
+user745,Somewhat familiar,More than once a month,Yes,0
+user746,Somewhat familiar,Once per month,Yes,6
+user747,Very familiar,Every week,Yes,6
+user748,Somewhat familiar,Once per month,Yes,6
+user749,Somewhat familiar,More than once a month,Yes,6
+user750,Very familiar,Every week,Yes,6
+user751,Somewhat familiar,Once per month,Yes,6
+user752,Very familiar,Once per month,Yes,6
+user753,Not familiar at all,,No,1
+user754,Somewhat familiar,Once per month,Unsure,6
+user755,Somewhat familiar,Once per month,Yes,3
+user756,Very familiar,More than once a month,Yes,6
+user757,Very familiar,Once per month,Yes,6
+user758,Somewhat familiar,Less than one a year,Yes,6
+user759,Somewhat familiar,Less than one a year,Yes,6
+user760,Somewhat familiar,Once per month,Yes,6
+user761,Not familiar at all,Less than one a year,Yes,6
+user762,Very familiar,Every week,Yes,6
+user763,Somewhat familiar,,Unsure,6
+user764,Somewhat familiar,Less than one a year,Yes,6
+user765,Somewhat familiar,Less than one a year,Yes,6
+user766,Very familiar,Every week,Yes,6
+user767,Somewhat familiar,,Unsure,6
+user768,Somewhat familiar,Once per month,Yes,6
+user769,Not familiar at all,Once per month,No,6
+user770,Somewhat familiar,Once per month,Yes,6
+user771,Not familiar at all,,No,6
+user772,Not familiar at all,,Unsure,6
+user773,Not familiar at all,,No,6
+user774,Not familiar at all,Once per month,Yes,6
+user775,Somewhat familiar,Once per month,Yes,6
+user776,Somewhat familiar,Once per month,Yes,6
+user777,Somewhat familiar,Once per month,Yes,6
+user778,Very familiar,Once per month,Yes,6
+user779,Somewhat familiar,More than once a month,Yes,6
+user780,Somewhat familiar,,Unsure,6
+user781,Somewhat familiar,Every week,Yes,6
+user782,Somewhat familiar,Once per month,Yes,6
+user783,Somewhat familiar,More than once a month,Yes,6
+user784,Somewhat familiar,,No,6
+user785,Somewhat familiar,,No,4
+user786,Somewhat familiar,Less than one a year,Yes,5
+user787,Somewhat familiar,Every week,Yes,6
+user788,Not familiar at all,,No,6
+user789,Somewhat familiar,Once per month,No,6
+user790,Not familiar at all,,No,6
+user791,Somewhat familiar,,No,6
+user792,Somewhat familiar,Less than one a year,No,6
+user793,Somewhat familiar,More than once a month,Yes,6
+user794,Somewhat familiar,Less than one a year,Yes,6
+user795,Somewhat familiar,Once per month,Yes,6
+user796,Somewhat familiar,,No,0
+user797,Somewhat familiar,Every week,Yes,6
+user798,Very familiar,More than once a month,Yes,6
+user799,Somewhat familiar,More than once a month,Yes,6
+user800,Somewhat familiar,Once per month,Yes,6
+user801,Somewhat familiar,Once per month,Yes,6
+user802,Very familiar,More than once a month,Yes,6
+user803,Somewhat familiar,More than once a month,Yes,6
+user804,Somewhat familiar,More than once a month,Yes,6
+user805,Very familiar,Every day,Yes,6
+user806,Very familiar,,No,6
+user807,Somewhat familiar,Once per month,Yes,6
+user808,Somewhat familiar,Less than one a year,Yes,2
+user809,Somewhat familiar,Every week,Yes,6
+user810,Very familiar,More than once a month,Yes,6
+user811,Not familiar at all,,No,6
+user812,Somewhat familiar,More than once a month,Yes,6
+user813,Very familiar,More than once a month,Yes,6
+user814,Somewhat familiar,Once per month,Yes,6
+user815,Very familiar,Every week,Yes,6
+user816,Not familiar at all,,No,6
+user817,Somewhat familiar,,No,6
+user818,Somewhat familiar,Less than one a year,No,6
+user819,Somewhat familiar,Every week,Yes,6
+user820,Somewhat familiar,Less than one a year,Yes,6
+user821,Very familiar,Every week,Yes,6
+user822,Somewhat familiar,Once per month,Yes,6
+user823,Not familiar at all,Less than one a year,No,6
+user824,Somewhat familiar,More than once a month,Yes,6
+user825,Very familiar,Every week,Yes,6
+user826,Somewhat familiar,,No,6
+user827,Very familiar,Every week,Yes,6
+user828,Somewhat familiar,,No,6
+user829,Somewhat familiar,,No,6
+user830,Somewhat familiar,Once per month,Yes,0
+user831,Somewhat familiar,Once per month,Yes,6
+user832,Somewhat familiar,Less than one a year,Yes,6
+user833,Somewhat familiar,Every day,No,6
+user834,Somewhat familiar,Less than one a year,Yes,0
+user835,Somewhat familiar,Every week,Yes,6
+user836,Very familiar,Every week,Yes,6
+user837,Not familiar at all,Once per month,No,4
+user838,Not familiar at all,Less than one a year,Yes,6
+user839,Somewhat familiar,Once per month,Yes,6
+user840,Somewhat familiar,Once per month,Yes,6
+user841,Somewhat familiar,Once per month,Yes,6
+user842,Very familiar,Every week,Yes,6
+user843,Very familiar,Every day,Yes,0
+user844,Somewhat familiar,Less than one a year,Yes,6
+user845,Not familiar at all,,No,0
+user846,Somewhat familiar,Once per month,Yes,6
+user847,Somewhat familiar,More than once a month,Yes,6
+user848,Very familiar,Once per month,Yes,6
+user849,Very familiar,Every week,Yes,6
+user850,Somewhat familiar,Once per month,Yes,6
+user851,Somewhat familiar,Less than one a year,Yes,6
+user852,Somewhat familiar,Less than one a year,No,6
+user853,Somewhat familiar,More than once a month,Yes,6
+user854,Somewhat familiar,Once per month,Yes,6
+user855,Somewhat familiar,,Unsure,6
+user856,Somewhat familiar,Once per month,Yes,6
+user857,Somewhat familiar,,No,6
+user858,Not familiar at all,,No,6
+user859,Not familiar at all,,No,6
+user860,Somewhat familiar,Less than one a year,Yes,6
+user861,Very familiar,More than once a month,Yes,0
+user862,Somewhat familiar,,No,6
+user863,Very familiar,Every week,Yes,1
+user864,Not familiar at all,,No,7
+user865,Not familiar at all,,No,6
+user866,Somewhat familiar,More than once a month,Yes,6
+user867,Somewhat familiar,Once per month,Yes,6
+user868,Not familiar at all,More than once a month,Yes,1
+user869,Very familiar,Every day,Yes,6
+user870,Somewhat familiar,Less than one a year,Yes,6
+user871,Somewhat familiar,Every day,Yes,6
+user872,Not familiar at all,,Unsure,6
+user873,Somewhat familiar,Less than one a year,Yes,0
+user874,Not familiar at all,Less than one a year,Unsure,6
+user875,Somewhat familiar,Once per month,Yes,0
+user876,Somewhat familiar,Once per month,No,0
+user877,Very familiar,Once per month,Yes,6
+user878,Not familiar at all,,No,6
+user879,Somewhat familiar,,Unsure,6
+user880,Somewhat familiar,,No,6
+user881,Not familiar at all,,No,6
+user882,Somewhat familiar,More than once a month,Yes,6
+user883,Somewhat familiar,More than once a month,Yes,6
+user884,Somewhat familiar,Once per month,Yes,6
+user885,Somewhat familiar,Once per month,No,6
+user886,Not familiar at all,,No,6
+user887,Very familiar,More than once a month,Yes,6
+user888,Very familiar,Once per month,No,6
+user889,Somewhat familiar,Once per month,Yes,6
+user890,Not familiar at all,,No,3
+user891,Somewhat familiar,More than once a month,Yes,6
+user892,Somewhat familiar,Every week,No,6
+user893,Somewhat familiar,,Unsure,6
+user894,Somewhat familiar,More than once a month,Yes,6
+user895,Very familiar,Every week,Yes,6
+user896,Somewhat familiar,Every week,Yes,3
+user897,Not familiar at all,,No,6
+user898,Somewhat familiar,Once per month,Yes,6
+user899,Somewhat familiar,Less than one a year,Yes,6
+user900,Somewhat familiar,,No,3
+user901,Not familiar at all,,Unsure,6
+user902,Very familiar,Less than one a year,Yes,6
+user903,Somewhat familiar,Less than one a year,Yes,6
+user904,Somewhat familiar,Once per month,Yes,4
+user905,Somewhat familiar,Once per month,Yes,6
+user906,Very familiar,More than once a month,Yes,6
+user907,Very familiar,Every week,Yes,1
+user908,Somewhat familiar,Every week,Yes,6
+user909,Very familiar,Every week,Yes,6
+user910,Somewhat familiar,Once per month,Yes,6
+user911,Very familiar,Every week,Yes,6
+user912,Not familiar at all,,No,0
+user913,Somewhat familiar,Once per month,Yes,0
+user914,Very familiar,More than once a month,Yes,6
+user915,Not familiar at all,,No,5
+user916,Very familiar,Every day,Yes,6
+user917,Very familiar,Every week,Yes,6
+user918,Somewhat familiar,Once per month,Yes,6
+user919,Somewhat familiar,Once per month,Yes,6
+user920,Somewhat familiar,Once per month,Yes,6
+user921,Somewhat familiar,Every week,Yes,6
+user922,Very familiar,More than once a month,Yes,6
+user923,Somewhat familiar,Once per month,Yes,6
+user924,Very familiar,Once per month,Yes,6
+user925,Somewhat familiar,Every week,Yes,6
+user926,Somewhat familiar,,No,6
+user927,Not familiar at all,,Unsure,6
+user928,Very familiar,Every day,Yes,6
+user929,Somewhat familiar,Once per month,Yes,6
+user930,Not familiar at all,,No,6
+user931,Somewhat familiar,Less than one a year,Unsure,6
+user932,Not familiar at all,,No,6
+user933,Somewhat familiar,Once per month,Yes,3
+user934,Somewhat familiar,Less than one a year,No,5
+user935,Not familiar at all,,No,6
+user936,Not familiar at all,,Unsure,6
+user937,Very familiar,Every week,Yes,6
+user938,Somewhat familiar,,No,6
+user939,Somewhat familiar,Once per month,Yes,6
+user940,Not familiar at all,,No,6
+user941,Somewhat familiar,,No,6
+user942,Somewhat familiar,Once per month,Yes,6
+user943,Somewhat familiar,Every week,No,6
+user944,Somewhat familiar,Less than one a year,Yes,6
+user945,Not familiar at all,Less than one a year,Yes,0
+user946,Not familiar at all,,Unsure,0
+user947,Somewhat familiar,More than once a month,Yes,6
+user948,Somewhat familiar,Once per month,Unsure,6
+user949,Not familiar at all,,Unsure,6
+user950,Very familiar,Every day,Yes,6
+user951,Somewhat familiar,,No,0
+user952,Somewhat familiar,Once per month,Yes,6
+user953,Somewhat familiar,Once per month,Yes,6
+user954,Somewhat familiar,Less than one a year,Yes,0
+user955,Not familiar at all,,No,6
+user956,Somewhat familiar,Less than one a year,Yes,5
+user957,Somewhat familiar,Once per month,No,6
+user958,Somewhat familiar,,Unsure,6
+user959,Somewhat familiar,Less than one a year,Yes,6
+user960,Somewhat familiar,Every week,Yes,6
+user961,Somewhat familiar,Once per month,Yes,6
+user962,Not familiar at all,,No,6
+user963,Very familiar,Every week,Yes,6
+user964,Somewhat familiar,Once per month,Yes,6
+user965,Somewhat familiar,Once per month,Yes,6
+user966,Somewhat familiar,More than once a month,Yes,6
+user967,Somewhat familiar,,No,6
+user968,Not familiar at all,,No,6
+user969,Somewhat familiar,,No,5
+user970,Somewhat familiar,Once per month,Yes,6
+user971,Somewhat familiar,,Unsure,6
+user972,Somewhat familiar,Every week,Yes,6
+user973,Very familiar,Every week,Yes,6
+user974,Somewhat familiar,Less than one a year,Yes,7
+user975,Somewhat familiar,Less than one a year,No,6
+user976,Very familiar,Every week,Yes,6
+user977,Not familiar at all,Once per month,Unsure,6
+user978,Somewhat familiar,Once per month,Yes,7
+user979,Somewhat familiar,More than once a month,Yes,6
+user980,Somewhat familiar,Once per month,No,6
+user981,Somewhat familiar,,No,6
+user982,Somewhat familiar,Every day,Yes,6
+user983,Not familiar at all,,No,6
+user984,Very familiar,Every week,Yes,6
+user985,Very familiar,Every week,Yes,6
+user986,Somewhat familiar,Once per month,Yes,2
+user987,Very familiar,Every day,Yes,6
+user988,Very familiar,More than once a month,Yes,0
+user989,Somewhat familiar,,No,6
+user990,Not familiar at all,,No,6
+user991,Not familiar at all,,No,2
+user992,Very familiar,Every week,Yes,6
+user993,Somewhat familiar,Less than one a year,Yes,6
+user994,Somewhat familiar,Once per month,Yes,6
+user995,Very familiar,Every day,Yes,6
+user996,Not familiar at all,,No,4
+user997,Very familiar,Every week,Yes,6
+user998,Very familiar,Every day,Yes,0
+user999,Somewhat familiar,Once per month,Yes,6
+user1000,Somewhat familiar,More than once a month,Yes,0
+user1001,Somewhat familiar,,Unsure,6
+user1002,Somewhat familiar,Once per month,Yes,6
+user1003,Somewhat familiar,Every week,Yes,6
+user1004,Very familiar,More than once a month,Yes,6
+user1005,Very familiar,Every week,Yes,6
+user1006,Somewhat familiar,Once per month,Yes,0
+user1007,Somewhat familiar,Once per month,Yes,6
+user1008,Somewhat familiar,Every day,Yes,6
+user1009,Somewhat familiar,More than once a month,Yes,2
+user1010,Somewhat familiar,More than once a month,Yes,6
+user1011,Very familiar,More than once a month,Yes,6
+user1012,Somewhat familiar,Less than one a year,No,2
+user1013,Somewhat familiar,More than once a month,Yes,0
+user1014,Somewhat familiar,Less than one a year,Yes,6
+user1015,Very familiar,Every week,Yes,6
+user1016,Very familiar,Once per month,Yes,6
+user1017,Somewhat familiar,Every week,Yes,6
+user1018,Very familiar,Less than one a year,Yes,0
+user1019,Somewhat familiar,More than once a month,Yes,6
+user1020,Very familiar,Every week,Yes,6
+user1021,Somewhat familiar,More than once a month,Yes,6
+user1022,Somewhat familiar,Once per month,Yes,6
+user1023,Somewhat familiar,More than once a month,Yes,6
+user1024,Somewhat familiar,Once per month,Yes,6
+user1025,Somewhat familiar,,No,6
+user1026,Very familiar,Every week,Yes,6
+user1027,Somewhat familiar,Once per month,Yes,6
+user1028,Somewhat familiar,Less than one a year,Yes,6
+user1029,Not familiar at all,,No,6
+user1030,Somewhat familiar,Less than one a year,Yes,6
+user1031,Very familiar,Every day,Yes,6
+user1032,Somewhat familiar,Less than one a year,Yes,6
+user1033,Somewhat familiar,Every day,Yes,6
+user1034,Somewhat familiar,Every day,Yes,6
+user1035,Somewhat familiar,Once per month,Yes,6
+user1036,Very familiar,Once per month,Yes,6
+user1037,Somewhat familiar,Once per month,Yes,6
+user1038,Not familiar at all,,No,6
+user1039,Somewhat familiar,More than once a month,Yes,6
+user1040,Somewhat familiar,Once per month,Yes,6
+user1041,Somewhat familiar,More than once a month,Yes,6
+user1042,Somewhat familiar,Less than one a year,Yes,6
+user1043,Somewhat familiar,More than once a month,Unsure,6
+user1044,Very familiar,Every week,Yes,6
+user1045,Very familiar,Every day,Yes,6
+user1046,Somewhat familiar,More than once a month,Yes,3
+user1047,Very familiar,Every week,Yes,6
+user1048,Very familiar,Every week,Yes,6
+user1049,Somewhat familiar,Once per month,Yes,6
+user1050,Somewhat familiar,More than once a month,No,6
+user1051,Somewhat familiar,More than once a month,Yes,6
+user1052,Very familiar,Every week,Yes,6
+user1053,Not familiar at all,,No,6
+user1054,Not familiar at all,,No,4
+user1055,Very familiar,More than once a month,Yes,6
+user1056,Very familiar,More than once a month,Yes,6
+user1057,Somewhat familiar,Less than one a year,Unsure,6
+user1058,Somewhat familiar,Every week,Yes,2
+user1059,Very familiar,Every day,Yes,0
+user1060,Very familiar,More than once a month,Yes,6
+user1061,Very familiar,Every week,Yes,6
+user1062,Somewhat familiar,Once per month,Yes,6
+user1063,Very familiar,Every week,Yes,6
+user1064,Not familiar at all,,No,6
+user1065,Somewhat familiar,More than once a month,Yes,6
+user1066,Somewhat familiar,More than once a month,Yes,6
+user1067,Somewhat familiar,Once per month,Yes,6
+user1068,Very familiar,Every week,Yes,6
+user1069,Very familiar,Every day,Yes,6
+user1070,Very familiar,Every week,Yes,6
+user1071,Somewhat familiar,Once per month,Yes,6
+user1072,Somewhat familiar,Once per month,No,6
+user1073,Very familiar,More than once a month,Yes,6
+user1074,Somewhat familiar,,No,6
+user1075,Somewhat familiar,Once per month,Yes,6
+user1076,Somewhat familiar,Once per month,Yes,6
+user1077,Somewhat familiar,Less than one a year,Yes,6
+user1078,Somewhat familiar,Every week,Yes,6
+user1079,Very familiar,Every week,Yes,6
+user1080,Somewhat familiar,Less than one a year,No,6
+user1081,Somewhat familiar,More than once a month,Yes,6
+user1082,Very familiar,Every day,Yes,6
+user1083,Somewhat familiar,Once per month,Unsure,6
+user1084,Very familiar,Every week,Yes,6
+user1085,Very familiar,Every week,Yes,6
+user1086,Somewhat familiar,Every week,Yes,6
+user1087,Somewhat familiar,More than once a month,Yes,6
+user1088,Somewhat familiar,Once per month,Yes,0
+user1089,Very familiar,Every week,Yes,2
+user1090,Somewhat familiar,,Unsure,3
+user1091,Very familiar,More than once a month,Yes,6
+user1092,Very familiar,Every week,Yes,6
+user1093,Somewhat familiar,More than once a month,Yes,6
+user1094,Very familiar,Every day,Yes,6
+user1095,Very familiar,Every week,Yes,6
+user1096,Very familiar,Once per month,Yes,2
+user1097,Somewhat familiar,Once per month,Yes,6
+user1098,Somewhat familiar,Once per month,Yes,6
+user1099,Somewhat familiar,More than once a month,Yes,6
+user1100,Somewhat familiar,Once per month,Yes,6
+user1101,Very familiar,More than once a month,Yes,6
+user1102,Somewhat familiar,Once per month,Yes,6
+user1103,Somewhat familiar,Every week,Yes,6
+user1104,Somewhat familiar,,No,6
+user1105,Somewhat familiar,Once per month,Yes,6
+user1106,Very familiar,Every week,Yes,6
+user1107,Somewhat familiar,Once per month,Yes,6
+user1108,Very familiar,Once per month,Yes,6
+user1109,Somewhat familiar,More than once a month,Yes,6
+user1110,Not familiar at all,More than once a month,Yes,6
+user1111,Somewhat familiar,Once per month,Yes,6
+user1112,Somewhat familiar,Every week,Yes,6
+user1113,Very familiar,More than once a month,Yes,6
+user1114,Very familiar,Once per month,Yes,6
+user1115,Very familiar,Every week,Yes,6
+user1116,Somewhat familiar,Every week,Yes,6
+user1117,Somewhat familiar,Every week,Yes,6
+user1118,Somewhat familiar,Once per month,Yes,6
+user1119,Very familiar,More than once a month,Yes,6
+user1120,Not familiar at all,Less than one a year,Unsure,6
+user1121,Very familiar,Once per month,Yes,6
+user1122,Very familiar,Every week,Yes,1
+user1123,Very familiar,More than once a month,Yes,6
+user1124,Somewhat familiar,Less than one a year,Yes,6
+user1125,Very familiar,More than once a month,Yes,6
+user1126,Somewhat familiar,Every day,Yes,6
+user1127,Somewhat familiar,Once per month,Yes,6
+user1128,Not familiar at all,Once per month,Yes,6
+user1129,Very familiar,More than once a month,Yes,6
+user1130,Somewhat familiar,Every week,Yes,4
+user1131,Somewhat familiar,Once per month,Yes,7
+user1132,Not familiar at all,Once per month,Yes,6
+user1133,Very familiar,More than once a month,Yes,6
+user1134,Very familiar,Every week,Yes,6
+user1135,Somewhat familiar,,No,6
+user1136,Not familiar at all,,No,6
+user1137,Somewhat familiar,Once per month,Yes,6
+user1138,Somewhat familiar,Once per month,Yes,6
+user1139,Somewhat familiar,Once per month,Yes,6
+user1140,Somewhat familiar,,No,6
+user1141,Very familiar,Every day,Yes,6
+user1142,Somewhat familiar,Less than one a year,Yes,6
+user1143,Somewhat familiar,Every week,Yes,0
+user1144,Not familiar at all,,No,6
+user1145,Somewhat familiar,More than once a month,Yes,6
+user1146,Very familiar,Every week,Yes,6
+user1147,Very familiar,More than once a month,Yes,0
+user1148,Very familiar,Every week,Yes,3
+user1149,Somewhat familiar,Once per month,Yes,6
+user1150,Somewhat familiar,More than once a month,Yes,6
+user1151,Very familiar,Every week,Yes,6
+user1152,Somewhat familiar,More than once a month,Yes,6
+user1153,Somewhat familiar,More than once a month,No,6
+user1154,Somewhat familiar,Once per month,Yes,6
+user1155,Somewhat familiar,Once per month,Yes,6
+user1156,Very familiar,Every day,Yes,6
+user1157,Somewhat familiar,Once per month,Yes,6
+user1158,Somewhat familiar,Every week,Yes,3
+user1159,Somewhat familiar,Every week,Yes,6
+user1160,Very familiar,Every day,Yes,6
+user1161,Somewhat familiar,Once per month,Yes,6
+user1162,Very familiar,Every day,Yes,6
+user1163,Somewhat familiar,Every week,Yes,0
+user1164,Somewhat familiar,Every week,Yes,1
+user1165,Somewhat familiar,Once per month,Yes,6
+user1166,Somewhat familiar,Less than one a year,Yes,0
+user1167,Somewhat familiar,Once per month,Yes,0
+user1168,Somewhat familiar,Once per month,Yes,6
+user1169,Somewhat familiar,Once per month,Yes,6
+user1170,Somewhat familiar,Every week,Yes,6
+user1171,Not familiar at all,,No,6
+user1172,Somewhat familiar,More than once a month,Yes,3
+user1173,Somewhat familiar,Every day,Yes,6
+user1174,Somewhat familiar,Less than one a year,Yes,6
+user1175,Very familiar,Every week,Yes,6
+user1176,Very familiar,Once per month,Yes,6
+user1177,Very familiar,Every week,Yes,6
+user1178,Not familiar at all,,No,6
+user1179,Very familiar,More than once a month,Yes,6
+user1180,Very familiar,Every week,Yes,6
+user1181,Somewhat familiar,Every week,Yes,6
+user1182,Somewhat familiar,Less than one a year,Yes,6
+user1183,Very familiar,Every day,Yes,6
+user1184,Not familiar at all,,No,6
+user1185,Very familiar,More than once a month,Yes,6
+user1186,Not familiar at all,,No,0
+user1187,Very familiar,Once per month,Yes,6
+user1188,Somewhat familiar,,No,6
+user1189,Not familiar at all,,No,6
+user1190,Somewhat familiar,,No,6
+user1191,Very familiar,Every day,Yes,6
+user1192,Somewhat familiar,,No,6
+user1193,Somewhat familiar,More than once a month,Yes,6
+user1194,Somewhat familiar,Once per month,No,6
+user1195,Somewhat familiar,,No,6
+user1196,Not familiar at all,,No,6
+user1197,Somewhat familiar,,No,6
+user1198,Not familiar at all,,No,6
+user1199,Not familiar at all,,No,6
+user1200,Somewhat familiar,,No,6
+user1201,Somewhat familiar,More than once a month,Yes,2
+user1202,Somewhat familiar,Less than one a year,Yes,6
+user1203,Very familiar,Every week,Yes,6
+user1204,Somewhat familiar,Every week,Yes,6
+user1205,Somewhat familiar,Once per month,Yes,6
+user1206,Very familiar,More than once a month,Yes,6
+user1207,Somewhat familiar,More than once a month,Yes,6
+user1208,Not familiar at all,Less than one a year,Unsure,6
+user1209,Somewhat familiar,,No,6
+user1210,Somewhat familiar,,No,6
+user1211,Not familiar at all,,No,6
+user1212,Somewhat familiar,Less than one a year,No,6
+user1213,Not familiar at all,,No,6
+user1214,Somewhat familiar,Once per month,Yes,6
+user1215,Not familiar at all,,No,6
+user1216,Not familiar at all,Less than one a year,No,6
+user1217,Not familiar at all,,No,6
+user1218,Somewhat familiar,Less than one a year,Yes,6
+user1219,Somewhat familiar,Less than one a year,Yes,6
+user1220,Somewhat familiar,,No,6
+user1221,Not familiar at all,,Unsure,6
+user1222,Somewhat familiar,Once per month,Yes,6
+user1223,Not familiar at all,,No,6
+user1224,Not familiar at all,,Unsure,6
+user1225,Very familiar,Every day,Yes,6
+user1226,Somewhat familiar,,Unsure,6
+user1227,Very familiar,More than once a month,Yes,6
+user1228,Not familiar at all,,No,6
+user1229,Not familiar at all,,No,6
+user1230,Somewhat familiar,More than once a month,Yes,6
+user1231,Somewhat familiar,Less than one a year,Yes,6
+user1232,Somewhat familiar,,No,0
+user1233,Not familiar at all,,No,6
+user1234,Somewhat familiar,,Unsure,6
+user1235,Somewhat familiar,Less than one a year,Yes,6
+user1236,Somewhat familiar,Less than one a year,Yes,6
+user1237,Somewhat familiar,Once per month,Yes,2
+user1238,Very familiar,More than once a month,Yes,6
+user1239,Somewhat familiar,More than once a month,Yes,6
+user1240,Not familiar at all,Once per month,Yes,1
+user1241,Somewhat familiar,Once per month,Yes,6
+user1242,Very familiar,Every day,Yes,6
+user1243,Not familiar at all,,No,6
+user1244,Somewhat familiar,More than once a month,Unsure,0
+user1245,Somewhat familiar,More than once a month,Yes,6
+user1246,Not familiar at all,,No,6
+user1247,Somewhat familiar,Once per month,Yes,6
+user1248,Not familiar at all,,No,6
+user1249,Somewhat familiar,Once per month,Yes,6
+user1250,Very familiar,Every week,Yes,6
+user1251,Somewhat familiar,,No,6
+user1252,Somewhat familiar,Once per month,Yes,6
+user1253,Not familiar at all,,Unsure,6
+user1254,Not familiar at all,,No,6
+user1255,Not familiar at all,,No,6
+user1256,Somewhat familiar,,No,6
+user1257,Somewhat familiar,Every week,Yes,6
+user1258,Somewhat familiar,Every week,Yes,6
+user1259,Somewhat familiar,Less than one a year,Yes,6
+user1260,Somewhat familiar,Once per month,Yes,6
+user1261,Somewhat familiar,Once per month,Yes,6
+user1262,Somewhat familiar,Once per month,Yes,6
+user1263,Somewhat familiar,Once per month,Yes,6
+user1264,Very familiar,Once per month,Yes,6
+user1265,Somewhat familiar,More than once a month,Yes,6
+user1266,Somewhat familiar,Less than one a year,Yes,6
+user1267,Very familiar,Every day,Yes,6
+user1268,Very familiar,Every week,Yes,6
+user1269,Very familiar,Every week,Yes,6
+user1270,Not familiar at all,,No,6
+user1271,Somewhat familiar,Every week,Yes,6
+user1272,Somewhat familiar,Once per month,No,6
+user1273,Very familiar,Once per month,Yes,6
+user1274,Very familiar,Every week,Yes,6
+user1275,Somewhat familiar,Once per month,Yes,6
+user1276,Somewhat familiar,Every day,Yes,6
+user1277,Somewhat familiar,More than once a month,No,6
+user1278,Somewhat familiar,Less than one a year,Yes,6
+user1279,Somewhat familiar,More than once a month,Yes,6
+user1280,Somewhat familiar,Every week,Yes,7
+user1281,Very familiar,More than once a month,Yes,6
+user1282,Somewhat familiar,Once per month,Yes,6
+user1283,Not familiar at all,,No,6
+user1284,Somewhat familiar,Once per month,Yes,6
+user1285,Somewhat familiar,Every day,Yes,6
+user1286,Very familiar,Every week,Yes,6
+user1287,Somewhat familiar,Less than one a year,Unsure,6
+user1288,Somewhat familiar,Once per month,Yes,6
+user1289,Somewhat familiar,More than once a month,Yes,6
+user1290,Very familiar,Less than one a year,Yes,6
+user1291,Somewhat familiar,,Unsure,6
+user1292,Somewhat familiar,Every week,Yes,1
+user1293,Very familiar,Every day,Yes,6
+user1294,Somewhat familiar,More than once a month,Yes,6
+user1295,Somewhat familiar,Less than one a year,No,6
+user1296,Somewhat familiar,Once per month,Yes,6
+user1297,Very familiar,Every week,Yes,6
+user1298,Somewhat familiar,Every week,Yes,6
+user1299,Not familiar at all,,No,6
+user1300,Somewhat familiar,Once per month,Yes,6
+user1301,Somewhat familiar,More than once a month,Yes,0
+user1302,Somewhat familiar,Less than one a year,Yes,6
+user1303,Somewhat familiar,,No,6
+user1304,Not familiar at all,,No,6
+user1305,Somewhat familiar,Less than one a year,Yes,6
+user1306,Very familiar,Every week,Yes,0
+user1307,Somewhat familiar,Once per month,Yes,6
+user1308,Somewhat familiar,Less than one a year,Yes,6
+user1309,Not familiar at all,,No,6
+user1310,Somewhat familiar,Once per month,Yes,6
+user1311,Not familiar at all,,No,6
+user1312,Very familiar,Every week,Yes,6
+user1313,Somewhat familiar,Every week,Yes,6
+user1314,Very familiar,Once per month,Yes,6
+user1315,Somewhat familiar,,No,6
+user1316,Somewhat familiar,Less than one a year,Yes,6
+user1317,Somewhat familiar,Once per month,Unsure,6
+user1318,Very familiar,Less than one a year,Yes,6
+user1319,Very familiar,Every week,Yes,1
+user1320,Somewhat familiar,Less than one a year,Yes,6
+user1321,Somewhat familiar,,No,6
+user1322,Very familiar,Once per month,Yes,6
+user1323,Somewhat familiar,Less than one a year,Yes,1
+user1324,Not familiar at all,,No,6
+user1325,Very familiar,Once per month,Yes,4
+user1326,Very familiar,Every day,Yes,5
+user1327,Somewhat familiar,Once per month,Yes,0
+user1328,Somewhat familiar,More than once a month,Yes,6
+user1329,Somewhat familiar,Once per month,Yes,6
+user1330,Very familiar,Every week,Yes,6
+user1331,Not familiar at all,,No,6
+user1332,Somewhat familiar,Every week,Yes,6
+user1333,Very familiar,Every day,Yes,6
+user1334,Somewhat familiar,More than once a month,Yes,6
+user1335,Very familiar,Every week,Yes,6
+user1336,Not familiar at all,,No,1
+user1337,Somewhat familiar,Every day,Yes,6
+user1338,Very familiar,Every week,Yes,6
+user1339,Somewhat familiar,More than once a month,Yes,0
+user1340,Very familiar,Every week,Yes,2
+user1341,Somewhat familiar,More than once a month,Yes,6
+user1342,Somewhat familiar,More than once a month,Unsure,5
+user1343,Very familiar,Every week,Yes,0
+user1344,Somewhat familiar,Less than one a year,Yes,2
+user1345,Very familiar,Once per month,Yes,6
+user1346,Very familiar,Every week,Yes,6
+user1347,Somewhat familiar,,Unsure,0
+user1348,Somewhat familiar,More than once a month,No,6
+user1349,Somewhat familiar,Less than one a year,Yes,6
+user1350,Somewhat familiar,,Unsure,6
+user1351,Somewhat familiar,Once per month,Yes,5
+user1352,Somewhat familiar,Less than one a year,Unsure,6
+user1353,Not familiar at all,,No,0
+user1354,Very familiar,Every week,Yes,6
+user1355,Very familiar,Every day,Yes,5
+user1356,Somewhat familiar,More than once a month,Yes,6
+user1357,Very familiar,Every day,Yes,6
+user1358,Somewhat familiar,More than once a month,Yes,6
+user1359,Somewhat familiar,Once per month,Yes,6
+user1360,Somewhat familiar,Less than one a year,Yes,6
+user1361,Somewhat familiar,Once per month,Yes,6
+user1362,Very familiar,Once per month,Yes,2
+user1363,Somewhat familiar,More than once a month,Yes,6
+user1364,Somewhat familiar,Every day,Yes,6
+user1365,Not familiar at all,Once per month,Yes,6
+user1366,Somewhat familiar,,No,6
+user1367,Somewhat familiar,Once per month,Yes,6
+user1368,Somewhat familiar,Every week,Yes,2
+user1369,Somewhat familiar,Once per month,Yes,6
+user1370,Very familiar,Every week,Yes,6
+user1371,Somewhat familiar,Once per month,Yes,6
+user1372,Somewhat familiar,Once per month,Yes,6
+user1373,Somewhat familiar,,No,6
+user1374,Somewhat familiar,Once per month,No,6
+user1375,Somewhat familiar,,No,0
+user1376,Very familiar,Once per month,Yes,6
+user1377,Somewhat familiar,Every week,Yes,6
+user1378,Somewhat familiar,More than once a month,Yes,1
+user1379,Somewhat familiar,More than once a month,Yes,6
+user1380,Somewhat familiar,,No,2
+user1381,Somewhat familiar,Once per month,Yes,6
+user1382,Very familiar,Every week,Yes,0
+user1383,Somewhat familiar,,No,6
+user1384,Somewhat familiar,Once per month,Yes,6
+user1385,Somewhat familiar,More than once a month,Yes,6
+user1386,Somewhat familiar,Every week,Yes,6
+user1387,Very familiar,Every week,Yes,6
+user1388,Somewhat familiar,Once per month,Yes,6
+user1389,Very familiar,Every week,Yes,2
+user1390,Somewhat familiar,Once per month,Yes,6
+user1391,Somewhat familiar,Every week,Yes,1
+user1392,Somewhat familiar,Every week,Yes,3
+user1393,Somewhat familiar,More than once a month,Yes,6
+user1394,Somewhat familiar,More than once a month,Yes,1
+user1395,Somewhat familiar,More than once a month,Yes,6
+user1396,Somewhat familiar,Every day,Yes,6
+user1397,Somewhat familiar,More than once a month,Yes,0
+user1398,Very familiar,Every week,Yes,6
+user1399,Somewhat familiar,,Unsure,6
+user1400,Somewhat familiar,Every week,Yes,6
+user1401,Somewhat familiar,Once per month,Yes,6
+user1402,Not familiar at all,,Unsure,1
+user1403,Very familiar,Every week,Yes,0
+user1404,Somewhat familiar,Less than one a year,Unsure,6
+user1405,Somewhat familiar,Less than one a year,Yes,6
+user1406,Somewhat familiar,Every week,Yes,6
+user1407,Somewhat familiar,Every week,Yes,0
+user1408,Somewhat familiar,Every day,Yes,0
+user1409,Somewhat familiar,Every week,Yes,4
+user1410,Very familiar,More than once a month,Yes,6
+user1411,Very familiar,More than once a month,Yes,6
+user1412,Somewhat familiar,Every week,Yes,6
+user1413,Somewhat familiar,More than once a month,Yes,0
+user1414,Very familiar,Every day,Yes,6
+user1415,Not familiar at all,,No,6
+user1416,Somewhat familiar,Once per month,Yes,0
+user1417,Somewhat familiar,Every week,Yes,0
+user1418,Somewhat familiar,Every day,Yes,6
+user1419,Very familiar,More than once a month,Yes,6
+user1420,Somewhat familiar,Every week,Yes,6
+user1421,Somewhat familiar,Every week,Yes,0
+user1422,Very familiar,Every week,Yes,6
+user1423,Somewhat familiar,Once per month,Yes,0
+user1424,Somewhat familiar,Every week,Yes,6
+user1425,Very familiar,Every day,Yes,6
+user1426,Somewhat familiar,,No,0
+user1427,Somewhat familiar,Once per month,Yes,0
+user1428,Very familiar,More than once a month,Yes,0
+user1429,Somewhat familiar,Every week,Yes,6
+user1430,Very familiar,Every week,Yes,6
+user1431,Somewhat familiar,Once per month,Unsure,6
+user1432,Somewhat familiar,,No,6
+user1433,Very familiar,More than once a month,Yes,6
+user1434,Not familiar at all,Less than one a year,Yes,6
+user1435,Somewhat familiar,Every week,Yes,6
+user1436,Very familiar,More than once a month,Yes,6
+user1437,Somewhat familiar,More than once a month,Yes,6
+user1438,Somewhat familiar,,No,0
+user1439,Very familiar,Every day,Yes,6
+user1440,Somewhat familiar,Once per month,Yes,0
+user1441,Not familiar at all,,No,6
+user1442,Not familiar at all,,No,6
+user1443,Somewhat familiar,,Unsure,6
+user1444,Somewhat familiar,Once per month,Yes,6
+user1445,Not familiar at all,Less than one a year,Yes,6
+user1446,Somewhat familiar,Once per month,Yes,6
+user1447,Not familiar at all,,No,6
+user1448,Somewhat familiar,Once per month,Yes,6
+user1449,Somewhat familiar,Once per month,No,0
+user1450,Not familiar at all,,No,3
+user1451,Somewhat familiar,More than once a month,Yes,6
+user1452,Somewhat familiar,Every week,Yes,6
+user1453,Somewhat familiar,Less than one a year,Unsure,6
+user1454,Somewhat familiar,Every week,Yes,6
+user1455,Somewhat familiar,,No,0
+user1456,Somewhat familiar,Once per month,Yes,6
+user1457,Somewhat familiar,More than once a month,Yes,6
+user1458,Somewhat familiar,Every week,Yes,6
+user1459,Somewhat familiar,Every week,Yes,6
+user1460,Very familiar,More than once a month,Yes,3
+user1461,Very familiar,Every day,Yes,6
+user1462,Somewhat familiar,More than once a month,Yes,2
+user1463,Somewhat familiar,Once per month,Yes,6
+user1464,Somewhat familiar,Once per month,Yes,6
+user1465,Somewhat familiar,More than once a month,Yes,6
+user1466,Somewhat familiar,,Unsure,6
+user1467,Very familiar,Every week,Yes,6
+user1468,Very familiar,Once per month,Yes,6
+user1469,Somewhat familiar,More than once a month,Yes,6
+user1470,Somewhat familiar,Once per month,Yes,6
+user1471,Somewhat familiar,Less than one a year,Yes,6
+user1472,Somewhat familiar,More than once a month,Yes,6
+user1473,Somewhat familiar,Once per month,Yes,6
+user1474,Somewhat familiar,Every week,Yes,6
+user1475,Somewhat familiar,Once per month,Yes,6
+user1476,Very familiar,More than once a month,Yes,6
+user1477,Very familiar,Every day,Yes,5
+user1478,Very familiar,Every week,Yes,0
+user1479,Somewhat familiar,Every week,Yes,6
+user1480,Very familiar,Every day,Yes,6
+user1481,Somewhat familiar,More than once a month,Yes,6
+user1482,Very familiar,Less than one a year,Yes,0
+user1483,Very familiar,Every week,Yes,6
+user1484,Very familiar,More than once a month,Yes,6
+user1485,Somewhat familiar,,Unsure,6
+user1486,Somewhat familiar,Once per month,No,6
+user1487,Somewhat familiar,Less than one a year,Yes,6
+user1488,Somewhat familiar,Less than one a year,Yes,6
+user1489,Somewhat familiar,Less than one a year,Yes,6
+user1490,Somewhat familiar,More than once a month,Yes,6
+user1491,Somewhat familiar,,Unsure,6
+user1492,Very familiar,Every day,Yes,3
+user1493,Very familiar,Every week,Yes,6
+user1494,Somewhat familiar,More than once a month,Yes,0
+user1495,Somewhat familiar,More than once a month,Yes,6
+user1496,Somewhat familiar,More than once a month,Yes,0
+user1497,Somewhat familiar,,No,6
+user1498,Somewhat familiar,More than once a month,Yes,6
+user1499,Somewhat familiar,Every week,Yes,6
