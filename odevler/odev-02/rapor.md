@@ -8,9 +8,9 @@
 
 **Kullandığım veritabanı:** ☐ `llm_ops`  ☒ `robot_fleet`
 
-**PR bağlantısı:** `https://github.com/artuntprk/vize-202607131017/pull/__` (PR açıldıktan sonra doldurulacak)
+**PR bağlantısı:** `https://github.com/artuntprk/vize-202607131017/pull/2`
 
-**Commit sayısı:** ______ (son commit atıldıktan sonra doldurulacak)
+**Commit sayısı:** 4
 
 ---
 
